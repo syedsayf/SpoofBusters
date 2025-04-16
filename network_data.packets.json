@@ -1,0 +1,3474 @@
+[{
+  "_id": {
+    "$oid": "67f4973d6cf87d8321c8851c"
+  },
+  "source_ip": "20.189.173.3",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:25:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f497416cf87d8321c8851e"
+  },
+  "source_ip": "192.34.20.166",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:25:49",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f497456cf87d8321c88520"
+  },
+  "source_ip": "20.189.173.3",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:25:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980a859094e42ad2fade"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980a859094e42ad2fae0"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980a859094e42ad2fae2"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980a859094e42ad2fae4"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2fae6"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2fae8"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:15",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2faea"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:15",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2faec"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:15",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2faee"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:15",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980b859094e42ad2faf0"
+  },
+  "source_ip": "20.42.65.85",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:15",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980c859094e42ad2faf2"
+  },
+  "source_ip": "20.189.173.5",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:16",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4980d859094e42ad2faf4"
+  },
+  "source_ip": "35.174.127.31",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:17",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49810859094e42ad2faf6"
+  },
+  "source_ip": "35.223.238.178",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49810859094e42ad2faf8"
+  },
+  "source_ip": "35.223.238.178",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49810859094e42ad2fafa"
+  },
+  "source_ip": "92.223.85.165",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49810859094e42ad2fafc"
+  },
+  "source_ip": "35.223.238.178",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49811859094e42ad2fafe"
+  },
+  "source_ip": "35.174.127.31",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:29:21",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f498439331f58038eca38c"
+  },
+  "source_ip": "34.194.72.48",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:30:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f498439331f58038eca38e"
+  },
+  "source_ip": "34.194.72.48",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:30:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f498449331f58038eca390"
+  },
+  "source_ip": "13.89.179.9",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:30:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f498449331f58038eca392"
+  },
+  "source_ip": "13.89.179.9",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:30:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995dbbcb5a17e9e0e7d4"
+  },
+  "source_ip": "35.174.127.31",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995dbbcb5a17e9e0e7d6"
+  },
+  "source_ip": "35.174.127.31",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995dbbcb5a17e9e0e7d8"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7da"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7dc"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7de"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7e0"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7e2"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7e4"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7e6"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7e8"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7ea"
+  },
+  "source_ip": "40.126.35.81",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7ec"
+  },
+  "source_ip": "104.208.16.91",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4995ebbcb5a17e9e0e7ee"
+  },
+  "source_ip": "20.42.65.89",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:34:54",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a7161"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a7163"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a7165"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a7167"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a7169"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1b69cc8db2e56a716b"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1c69cc8db2e56a716d"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49a1c69cc8db2e56a716f"
+  },
+  "source_ip": "20.42.73.24",
+  "destination_ip": "192.168.100.20",
+  "timestamp": "11:38:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49b34fb2de23c22c4f29c"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:42:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49b34fb2de23c22c4f29e"
+  },
+  "sourceIp": "20.42.65.91",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:42:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49b35fb2de23c22c4f2a0"
+  },
+  "sourceIp": "20.42.65.91",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:42:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fc0"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fc2"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fc4"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fc6"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fc8"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fca"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fcc"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fce"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fd0"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fd2"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fd4"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fd6"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fd8"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cafe5ede8f4b6c10fda"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fdc"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fde"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fe0"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fe2"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fe4"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fe6"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fe8"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fea"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fec"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10fee"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10ff0"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb0e5ede8f4b6c10ff2"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ff4"
+  },
+  "sourceIp": "40.126.35.150",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ff6"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ff8"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ffa"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ffc"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c10ffe"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c11000"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c11002"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c11004"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c11006"
+  },
+  "sourceIp": "52.168.117.175",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49cb1e5ede8f4b6c11008"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "11:49:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc30"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc32"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc34"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc36"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc38"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc3a"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc3c"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc3e"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f49f53f337d9c172c4bc40"
+  },
+  "sourceIp": "13.89.179.11",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:00:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a0e79a868eccf86b7811"
+  },
+  "sourceIp": "20.42.65.89",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:07:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a0e79a868eccf86b7813"
+  },
+  "sourceIp": "20.42.65.89",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:07:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a0e89a868eccf86b7815"
+  },
+  "sourceIp": "20.42.65.89",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:07:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a0e89a868eccf86b7817"
+  },
+  "sourceIp": "20.42.65.89",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:07:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a436619"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a43661b"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a43661d"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a43661f"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a436621"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a436623"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30099b2a8a68a436625"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:00",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436627"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436629"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43662b"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43662d"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43662f"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436631"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436633"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436635"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436637"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a436639"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43663b"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43663d"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a30199b2a8a68a43663f"
+  },
+  "sourceIp": "40.79.173.41",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:16:01",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3685cef6bbb1da531bf"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3685cef6bbb1da531c1"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3685cef6bbb1da531c3"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531c5"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531c7"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531c9"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531cb"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531cd"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531cf"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531d1"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3695cef6bbb1da531d3"
+  },
+  "sourceIp": "20.189.173.7",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36d5cef6bbb1da531d5"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:49",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36e5cef6bbb1da531d7"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:50",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531d9"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531db"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531dd"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531df"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531e1"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531e3"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531e5"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531e7"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531e9"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531eb"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531ed"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531ef"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a36f5cef6bbb1da531f1"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:51",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3705cef6bbb1da531f3"
+  },
+  "sourceIp": "20.189.173.25",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:52",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3705cef6bbb1da531f5"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:52",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3715cef6bbb1da531f7"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:52",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3715cef6bbb1da531f9"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3715cef6bbb1da531fb"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4a3715cef6bbb1da531fd"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:17:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa462d2537c4217bd197"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:02",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa462d2537c4217bd199"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:02",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd19b"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd19d"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd19f"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1a1"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1a3"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1a5"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1a7"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1a9"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1ab"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa472d2537c4217bd1ad"
+  },
+  "sourceIp": "20.50.201.205",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:03",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa492d2537c4217bd1af"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1b1"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1b3"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1b5"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1b7"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1b9"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1bb"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1bd"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1bf"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1c1"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1c3"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4a2d2537c4217bd1c5"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4b2d2537c4217bd1c7"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4b2d2537c4217bd1c9"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4b2d2537c4217bd1cb"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4b2d2537c4217bd1cd"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4b2d2537c4217bd1cf"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4c2d2537c4217bd1d1"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:08",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4d2d2537c4217bd1d3"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:08",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4d2d2537c4217bd1d5"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:09",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1d7"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1d9"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1db"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1dd"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1df"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1e1"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1e3"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa4f2d2537c4217bd1e5"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1e7"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1e9"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1eb"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1ed"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1ef"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1f1"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa502d2537c4217bd1f3"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:12",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa512d2537c4217bd1f5"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa512d2537c4217bd1f7"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa522d2537c4217bd1f9"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa522d2537c4217bd1fb"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa542d2537c4217bd1fd"
+  },
+  "sourceIp": "34.120.195.249",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:16",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa542d2537c4217bd1ff"
+  },
+  "sourceIp": "192.34.20.166",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:16",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa542d2537c4217bd201"
+  },
+  "sourceIp": "192.34.20.166",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:16",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa562d2537c4217bd203"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:18",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa572d2537c4217bd205"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa572d2537c4217bd207"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa572d2537c4217bd209"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa582d2537c4217bd20b"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa582d2537c4217bd20d"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa592d2537c4217bd20f"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:21",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd211"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd213"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd215"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd217"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd219"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd21b"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd21d"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd21f"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd221"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd223"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd225"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd227"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd229"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd22b"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd22d"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5a2d2537c4217bd22f"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:22",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5b2d2537c4217bd231"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:23",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5b2d2537c4217bd233"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:23",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5c2d2537c4217bd235"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:24",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd237"
+  },
+  "sourceIp": "3.213.226.6",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd239"
+  },
+  "sourceIp": "3.213.226.6",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd23b"
+  },
+  "sourceIp": "3.213.226.6",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd23d"
+  },
+  "sourceIp": "54.88.72.78",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd23f"
+  },
+  "sourceIp": "54.88.72.78",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd241"
+  },
+  "sourceIp": "54.88.72.78",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd243"
+  },
+  "sourceIp": "34.199.221.141",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd245"
+  },
+  "sourceIp": "34.199.221.141",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd247"
+  },
+  "sourceIp": "34.199.221.141",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd249"
+  },
+  "sourceIp": "34.199.221.141",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd24b"
+  },
+  "sourceIp": "34.194.72.48",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd24d"
+  },
+  "sourceIp": "34.194.72.48",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd24f"
+  },
+  "sourceIp": "34.194.72.48",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd251"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5e2d2537c4217bd253"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:26",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd255"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd257"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd259"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd25b"
+  },
+  "sourceIp": "20.42.73.30",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd25d"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd25f"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd261"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd263"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd265"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd267"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd269"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd26b"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd26d"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd26f"
+  },
+  "sourceIp": "34.197.186.167",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd271"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd273"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd275"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd277"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd279"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd27b"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd27d"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd27f"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd281"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd283"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd285"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa5f2d2537c4217bd287"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:27",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd289"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd28b"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd28d"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd28f"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd291"
+  },
+  "sourceIp": "52.44.162.123",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa602d2537c4217bd293"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa632d2537c4217bd295"
+  },
+  "sourceIp": "192.34.20.166",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:31",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4aa632d2537c4217bd297"
+  },
+  "sourceIp": "192.34.20.166",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "12:47:31",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9611ef5783e173e399c"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:28",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9691ef5783e173e399e"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:37",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9691ef5783e173e39a0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:37",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96a1ef5783e173e39a2"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:37",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39a4"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:38",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39a6"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39a8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39aa"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39ac"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39ae"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96b1ef5783e173e39b0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96c1ef5783e173e39b2"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:39",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96c1ef5783e173e39b4"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:40",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96d1ef5783e173e39b6"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96d1ef5783e173e39b8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96d1ef5783e173e39ba"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96d1ef5783e173e39bc"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96d1ef5783e173e39be"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39c0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:41",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39c2"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39c4"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39c6"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39c8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39ca"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39cc"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39ce"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96e1ef5783e173e39d0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:42",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39d2"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39d4"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39d6"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39d8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39da"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39dc"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b96f1ef5783e173e39de"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:43",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39e0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39e2"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39e4"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39e6"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39e8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39ea"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39ec"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39ee"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39f0"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39f2"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39f4"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39f6"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39f8"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9701ef5783e173e39fa"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e39fc"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:44",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e39fe"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e3a00"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e3a02"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e3a04"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e3a06"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9711ef5783e173e3a08"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9721ef5783e173e3a0a"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:45",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9721ef5783e173e3a0c"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:46",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9721ef5783e173e3a0e"
+  },
+  "sourceIp": "20.242.181.0",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:46",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9731ef5783e173e3a10"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:47",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9791ef5783e173e3a12"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:52",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9791ef5783e173e3a14"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:53",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97b1ef5783e173e3a16"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:55",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97d1ef5783e173e3a18"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:57",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97d1ef5783e173e3a1a"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:57",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97d1ef5783e173e3a1c"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:57",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97e1ef5783e173e3a1e"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:58",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b97e1ef5783e173e3a20"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:51:58",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a22"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a24"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a26"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a28"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a2a"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a2c"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9841ef5783e173e3a2e"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:04",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9851ef5783e173e3a30"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9851ef5783e173e3a32"
+  },
+  "sourceIp": "20.205.243.168",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:05",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9861ef5783e173e3a34"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9861ef5783e173e3a36"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9861ef5783e173e3a38"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9861ef5783e173e3a3a"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a3c"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:06",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a3e"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a40"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a42"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a44"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a46"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a48"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a4a"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9871ef5783e173e3a4c"
+  },
+  "sourceIp": "92.223.85.165",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:07",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9881ef5783e173e3a4e"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:08",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b9891ef5783e173e3a50"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:09",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98b1ef5783e173e3a52"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:11",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98d1ef5783e173e3a54"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98d1ef5783e173e3a56"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98d1ef5783e173e3a58"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98d1ef5783e173e3a5a"
+  },
+  "sourceIp": "35.223.238.178",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:13",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4b98e1ef5783e173e3a5c"
+  },
+  "sourceIp": "35.174.127.31",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "13:52:14",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c41fd3ec8069733f1c48"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c41fd3ec8069733f1c4a"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c41fd3ec8069733f1c4c"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c41fd3ec8069733f1c4e"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c420d3ec8069733f1c50"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:19",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c420d3ec8069733f1c52"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c420d3ec8069733f1c54"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c420d3ec8069733f1c56"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:20",
+  "status": "Spoofed"
+},
+{
+  "_id": {
+    "$oid": "67f4c420d3ec8069733f1c58"
+  },
+  "sourceIp": "20.42.65.94",
+  "destinationIp": "192.168.100.20",
+  "timestamp": "14:37:20",
+  "status": "Spoofed"
+}]

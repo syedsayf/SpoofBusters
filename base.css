@@ -1,0 +1,122 @@
+/* src/styles/base.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grid-color: rgba(0, 255, 157, 0.1);
+}
+
+@layer components {
+  .cyber-card {
+    @apply bg-cyber-dark/80 border border-cyber-neon/30 rounded-lg p-4 backdrop-blur-sm
+    relative overflow-hidden shadow-lg;
+  }
+
+  .cyber-button {
+    @apply px-4 py-2 bg-cyber-dark border border-cyber-neon/30 text-cyber-neon
+    rounded hover:bg-cyber-neon/20 transition-all duration-200
+    focus:outline-none focus:ring-2 focus:ring-cyber-neon/50
+    disabled:opacity-50 disabled:cursor-not-allowed
+    relative overflow-hidden;
+  }
+
+  .cyber-input {
+    @apply bg-cyber-darker border border-cyber-neon/30 text-white rounded-md px-4 py-2
+    focus:outline-none focus:ring-2 focus:ring-cyber-neon/50
+    placeholder:text-cyber-neon/30;
+  }
+
+  .cyber-link {
+    @apply text-cyber-neon hover:text-cyber-blue transition-colors duration-200
+    underline decoration-cyber-neon/30 hover:decoration-cyber-blue;
+  }
+
+  .cyber-heading {
+    @apply text-cyber-neon font-bold tracking-wider;
+  }
+
+  .cyber-text {
+    @apply text-white/80;
+  }
+
+  .cyber-alert {
+    @apply border rounded-md p-4 mb-4;
+  }
+
+  .cyber-alert-success {
+    @apply cyber-alert bg-cyber-success/10 border-cyber-success/30 text-cyber-success;
+  }
+
+  .cyber-alert-warning {
+    @apply cyber-alert bg-cyber-warning/10 border-cyber-warning/30 text-cyber-warning;
+  }
+
+  .cyber-alert-danger {
+    @apply cyber-alert bg-cyber-danger/10 border-cyber-danger/30 text-cyber-danger;
+  }
+
+  .cyber-badge {
+    @apply px-2 py-1 text-xs rounded-full;
+  }
+
+  .cyber-badge-success {
+    @apply cyber-badge bg-cyber-success/20 text-cyber-success;
+  }
+
+  .cyber-badge-warning {
+    @apply cyber-badge bg-cyber-warning/20 text-cyber-warning;
+  }
+
+  .cyber-badge-danger {
+    @apply cyber-badge bg-cyber-danger/20 text-cyber-danger;
+  }
+
+  .cyber-table {
+    @apply w-full text-left;
+  }
+
+  .cyber-table th {
+    @apply p-2 border-b border-cyber-neon/30 text-cyber-neon/70;
+  }
+
+  .cyber-table td {
+    @apply p-2 border-b border-cyber-neon/10;
+  }
+
+  .cyber-table tr:hover {
+    @apply bg-cyber-neon/5;
+  }
+
+  .cyber-scrollbar {
+    @apply scrollbar-thin scrollbar-track-cyber-darker scrollbar-thumb-cyber-neon/30
+    hover:scrollbar-thumb-cyber-neon/50;
+  }
+
+  .cyber-loading {
+    @apply animate-pulse bg-cyber-neon/20;
+  }
+
+  .cyber-grid-bg {
+    @apply bg-cyber-grid bg-[size:50px_50px];
+  }
+
+  .glitch-text {
+    @apply relative;
+    text-shadow: 0.05em 0 0 rgba(255, 0, 0, 0.75),
+                -0.025em -0.05em 0 rgba(0, 255, 0, 0.75),
+                0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+    animation: glitch 500ms infinite;
+  }
+
+  .cyber-gradient {
+    @apply bg-gradient-to-r from-cyber-neon via-cyber-blue to-cyber-pink
+    bg-clip-text text-transparent;
+  }
+
+  .cyber-scanner {
+    @apply absolute inset-0 bg-gradient-to-b from-transparent via-cyber-neon/20 to-transparent
+    opacity-0 pointer-events-none;
+    animation: scan 2s ease-in-out infinite;
+  }
+}

@@ -1,0 +1,43 @@
+/* src/styles/components/login.css */
+.login-container {
+    @apply min-h-screen bg-cyber-dark bg-cyber-grid flex items-center justify-center p-4;
+  }
+  
+  .login-card {
+    @apply cyber-card max-w-md w-full;
+  }
+  
+  .login-title {
+    @apply text-4xl font-bold text-center mb-8 cyber-gradient;
+  }
+  
+  /* src/styles/components/dashboard.css */
+  .dashboard-container {
+    @apply p-6 bg-cyber-dark min-h-screen;
+  }
+  
+  .dashboard-grid {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+  }
+  
+  .stat-card {
+    @apply cyber-card flex flex-col;
+  }
+  
+  .stat-value {
+    @apply text-3xl font-bold text-cyber-neon mb-2;
+  }
+  
+  /* src/styles/components/scanner.css */
+  .scanner-container {
+    @apply space-y-6 p-6;
+  }
+  
+  .scan-result {
+    @apply cyber-card relative;
+  }
+  
+  .scan-status {
+    @apply flex items-center space-x-2 mb-4;
+  }
+  
